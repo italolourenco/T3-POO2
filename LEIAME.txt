@@ -1,0 +1,7 @@
+Age of Simulator !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Utilize o python na versão 2.6 para executar o programa.
+Utilize arquivos no formato dos arquivos de exemplo que estão na pasta do programa.
+Não bata a cabeça no teclado e aperte o botão "Simular" na tela de simulação.
+Siga as intruções que estão na tela de instruções.
+Tenha certeza que deseja ver seu historico pois não e possivel voltar para o meu sem que o programa seja fechado.
